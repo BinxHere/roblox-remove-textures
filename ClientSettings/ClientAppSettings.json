@@ -207,5 +207,21 @@
     "FFlagEnableBetaBadgeLearnMore": "false",
     "FFlagBetaBadgeLearnMoreLinkFormview": "false",
     "FFlagControlBetaBadgeWithGuac": "false",
-    "FStringVoiceBetaBadgeLearnMoreLink": "null"
+    "FStringVoiceBetaBadgeLearnMoreLink": "null",
+    "FIntRenderShadowIntensity": "0",
+    "FIntTerrainArraySliceSize": "4",
+    "FFlagGlobalWindRendering": "False",
+    "FFlagGlobalWindActivated": "False",
+    "FIntRenderLocalLightUpdatesMax": "8",
+    "FIntRenderLocalLightUpdatesMin": "6",
+    "FIntRenderLocalLightFadeInMs": "0",
+    "FFlagDisablePostFx": "True",
+    "FFlagDebugSkyGray": "True",
+    "FIntRenderShadowIntensity": "0",
+    "DFIntPerformanceControlTextureQualityBestUtility": "-1",
+    "DFIntTextureCompositorActiveJobs": "0",
+    "FIntFRMMinGrassDistance": "0",
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntRenderGrassDetailStrands": "0",
+    "FIntRenderGrassHeightScaler": "0"
   }
