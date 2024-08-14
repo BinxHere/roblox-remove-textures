@@ -252,7 +252,7 @@
     "FFlagFailsafeHumanoid_3": "True",
     "FIntRobloxGuiBlurIntensity": "0",
     "FFlagReconnectDisabled": "True",
-    "FStringReconnectDisabledReason": "you fucking forgot to turn on an autoclicker/script OR a mod kicked you, rejoin and get gud retard"
+    "FStringReconnectDisabledReason": "you fucking forgot to turn on an autoclicker/script OR a mod kicked you, rejoin and get gud retard",
     "FFlagDebugForceChatDisabled": "True",
     "DFFlagOrder66": "True",
     "FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -263,5 +263,4 @@
     "FFlagDebugDisableTelemetryV2Event": "True",
     "FFlagDebugDisableTelemetryV2Stat": "True",
     "FFlagAdServiceEnabled": "False"
-    
   }
